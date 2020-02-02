@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Martel Sans', sans-serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'PT Sans', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  margin-top: 0;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.bottom-container {
+
+}
+
+.edu-row {
+  width: 50%;
+  margin: auto;
+}
+
+.hobby-img {
+  width: 25%
+}
+
+.hobby-row {
+  width: 50%;
+  margin: auto;
+}
+
+.link {
+  width: 50px;
+  height: 50px;
+}
+
+.middle-container {
+
+}
+
+.name-head {
+  font-size: 30px;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.prof-desc {
+  text-align: center;
+  width: 80%;
+  margin: 0 auto 5px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.top-container {
+  background-color: #f1fcfc;
+  position: relative;
+  padding-top: 100px;
+}
+
+.school-img {
+  width: 20%
+}
